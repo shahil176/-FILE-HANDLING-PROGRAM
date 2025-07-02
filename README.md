@@ -5,3 +5,6 @@
 *DOMAIN*: C LANGUAGE
 *DURATION*: 4 WEEKS
 *MENTOR*: NEELA SANTOSH KUMAR
+ paragraph
+ #OUTPUT
+ ![Image](https://github.com/user-attachments/assets/45d18c14-0e17-4f55-be42-e9b383832d2a)
