@@ -5,7 +5,7 @@
 *DOMAIN*: C LANGUAGE
 *DURATION*: 4 WEEKS
 *MENTOR*: NEELA SANTOSH KUMAR
- #Task 1 Description – File Handling Program in C :
+ #Task 1 Description – File Handling Program in C:
 
 The primary goal of Task 1 is to implement a File Handling Program in the C programming language that demonstrates the core file operations: create/write, append, and read. This task forms the foundation for understanding how data is managed persistently using files rather than temporary storage such as variables or arrays in memory. File handling is a crucial concept in software development, especially in systems programming, data processing, text manipulation tools, and database-related applications.
 
